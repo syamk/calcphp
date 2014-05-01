@@ -1,6 +1,5 @@
 //Calc app
 
-//test
 <?php
 
 echo "Calculator Application";
