@@ -1,5 +1,4 @@
-//Calc app. 
-
+//Calc app
 <?php
 
 echo "Calculator Application";
