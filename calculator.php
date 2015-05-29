@@ -1,4 +1,4 @@
-//Calc test..
+//Calc test
 
 <?php
 
